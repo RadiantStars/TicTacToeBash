@@ -8,7 +8,7 @@ This is a small project to test what I have learned using bash.
 
 The program reads though the file and places the Xs and Os in the corresponding spots if one of the players win before the end of the game. The program stops and prints the results and the winner
 There are also a few checks that have been implemented:
-1- Checks if the first argument is an X or O
-2- Checks if the second arguement is a readable file
-3- Checks if the file contains only numbers betwwen 1-9 with no repeated values.
+1. Checks if the first argument is an X or O
+2. Checks if the second arguement is a readable file
+3. Checks if the file contains only numbers betwwen 1-9 with no repeated values.
 Each of these checks if triggered ends the program with a different exit code.
